@@ -1,2 +1,2 @@
-# emai-website
-Official EMAI Conference Website
+# camelab-ai-conference
+Office CameLab Artificial Intelligence Conference
